@@ -1,0 +1,165 @@
+[
+    {
+      "id": 1,
+      "image": "SamplePic01.jpg",
+      "title": "Baldur's Gate 3 ",
+      "description": "Baldur's Gate 3 is a 2023 role-playing video game developed and published by Larian Studios.",
+      "tag": "Role-Playing",
+      "year": "2023"
+      
+    },
+    {
+      "id": 2,
+      "image": "SamplePic02.jpg",
+      "title": "Elden Ring",
+      "description": "Elden Ring is a 2022 action role-playing video game developed and published by FromSoftware.",
+      "tag": "Action",
+      "year": "2022"
+    },
+    {
+      "id": 3,
+      "image": "SamplePic03.jpg",
+      "title": "It Takes Two",
+      "description": "It Takes Two is a 2021 cooperative action-adventure video game developed by Hazelight Studios.",
+      "tag": "Co-op",
+      "year": "2021"
+    },
+    {
+      "id": 4,
+      "image": "SamplePic04.jpg",
+      "title": "The Last of Us Part II",
+      "description": "The Last of Us Part II is a 2020 action-adventure game developed by Naughty Dog.",
+      "tag": "Adventure",
+      "year": "2020"
+    },
+    {
+      "id": 5,
+      "image": "SamplePic05.jpg",
+      "title": "Sekiro",
+      "description": "Sekiro: Shadows Die Twice is a 2019 action-adventure game developed by FromSoftware.",
+      "tag": "Action",
+      "year": "2019"
+    },
+    {
+      "id": 6,
+      "image": "SamplePic06.jpg",
+      "title": "God of War (2018)",
+      "description": "God of War is an action-adventure game developed by Santa Monica Studio and published by Sony.",
+      "tag": "Adventure",
+      "year": "2018"
+    },
+    {
+      "id": 7,
+      "image": "SamplePic07.jpg",
+      "title": "The Legend of Zelda",
+      "description": "Breath of the Wild is a 2017 action-adventure game developed and published by Nintendo.",
+      "tag": "Adventure",
+      "year": "2017"
+    },
+    {
+      "id": 8,
+      "image": "SamplePic08.jpg",
+      "title": "Overwatch",
+      "description": "Overwatch was a 2016 team-based multiplayer first-person shooter game by Blizzard Entertainment.",
+      "tag": "FPS",
+      "year": "2016"
+    },
+    {
+      "id": 9,
+      "image": "SamplePic09.jpg",
+      "title": "The Witcher 3: Wild Hunt",
+      "description": "The Witcher 3 is a 2015 action role-playing game developed and published by CD Projekt.",
+      "tag": "Action",
+      "year": "2015"
+    },
+    {
+      "id": 10,
+      "image": "SamplePic10.jpg",
+      "title": "Dragon Age: Inquisition",
+      "description": "Inquisition is a 2014 role-playing game developed by BioWare and published by Electronic Arts.",
+      "tag": "Role-Playing",
+      "year": "2014"
+    },
+    {
+      "id": 11,
+      "image": "SamplePic11.jpg",
+      "title": "Grand Theft Auto V",
+      "description": "Grand Theft Auto V is a 2013 action-adventure game developed and published by Rockstar Games.",
+      "tag": "Action",
+      "year": "2013"
+    },
+    {
+      "id": 12,
+      "image": "SamplePic12.jpg",
+      "title": "The Walking Dead",
+      "description": "The Walking Dead is an episodic adventure video game developed and published by Telltale Games.",
+      "tag": "Adventure",
+      "year": "2012"
+    },
+    {
+      "id": 13,
+      "image": "SamplePic13.jpg",
+      "title": "The Elder Scrolls V",
+      "description": "The Elder Scrolls V: Skyrim is a 2011 action role-playing game developed by Bethesda Studios",
+      "tag": "Role-Playing",
+      "year": "2011"
+    },
+    {
+      "id": 14,
+      "image": "SamplePic14.jpg",
+      "title": "Red Dead Redemption",
+      "description": "Red Dead Redemption is a 2010 action-adventure game developed and published by Rockstar Games",
+      "tag": "Action",
+      "year": "2010"
+    },
+    {
+      "id": 15,
+      "image": "SamplePic15.jpg",
+      "title": "Uncharted 2",
+      "description": "Uncharted 2: Among Thieves is a 2009 action-adventure game developed by Naughty Dog .",
+      "tag": "Adventure",
+      "year": "2009"
+    },
+    {
+      "id": 16,
+      "image": "SamplePic16.jpg",
+      "title": "Metal Gear Solid 4",
+      "description": "Metal Gear Solid 4: Guns of the Patriots is a 2008 action-adventure video game developed  by Konami ",
+      "tag": "Action",
+      "year": "2008"
+    },
+    {
+      "id": 17,
+      "image": "SamplePic17.jpg",
+      "title": "BioShock",
+      "description": "BioShock is a 2007 first-person shooter game developed by 2K Boston and published by 2K.",
+      "tag": "FPS",
+      "year": "2007"
+    },
+    {
+      "id": 18,
+      "image": "SamplePic18.jpg",
+      "title": "Gears of War",
+      "description": "Gears of War is a 2006 third-person shooter video game developed by Epic Games.",
+      "tag": "TPS",
+      "year": "2006"
+    },
+    {
+      "id": 19,
+      "image": "SamplePic19.jpg",
+      "title": "Resident Evil 4",
+      "description": "Resident Evil 4 is a horror game by Capcom, originally released for the GameCube in 2005.",
+      "tag": "Horror",
+      "year": "2005"
+    },
+    {
+      "id": 20,
+      "image": "SamplePic20.jpg",
+      "title": "Half Life II",
+      "description": "Half-Life 2 is a 2004 first-person shooter (FPS) game developed and published by Valve Corporation.",
+      "tag": "FPS",
+      "year": "2004"
+    }
+    
+  ]
+  
